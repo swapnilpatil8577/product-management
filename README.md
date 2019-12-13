@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Objective
 
-To use Angular 8, Node.js, Express.js and MongoDB and build such a platform from where user can create, update, delete products.
+To use Angular 8, Node.js, Express.js, MongoDB and build such a platform from where user can create, update, delete products.
 
 ## Technologies
 
