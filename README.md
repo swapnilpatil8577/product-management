@@ -1,6 +1,10 @@
-# Angular8tutorial
+# Product Management Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
+
+## Technologies
+
+Angular 8, Node.js, Express.js, MongoDB
 
 ## Development server
 
